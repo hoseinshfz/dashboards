@@ -4,3 +4,9 @@ more than 5% behind the time schedule or exceeding the planned budget, it warned
 investigate this matter properly. Plus, the data collection process became automatic with 100%
 ensured accuracy.
 
+# sample #1
+![](https://github.com/hoseinshfz/dashboards/blob/main/Rahyaft_samples/Rahyaft_2.gif?raw=true)
+
+# sample #1
+![](https://github.com/hoseinshfz/dashboards/blob/main/Rahyaft_samples/Rahyaft_1.gif?raw=true)
+
