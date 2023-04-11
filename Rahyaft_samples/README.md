@@ -7,6 +7,12 @@ ensured accuracy.
 # sample #1
 ![](https://github.com/hoseinshfz/dashboards/blob/main/Rahyaft_samples/Rahyaft_2.gif?raw=true)
 
-# sample #1
-![](https://github.com/hoseinshfz/dashboards/blob/main/Rahyaft_samples/Rahyaft_1.gif?raw=true)
+# sample #2
+![](https://github.com/hoseinshfz/dashboards/blob/main/Rahyaft_samples/Rahyaft_4.gif?raw=true)
 
+
+# sample #3
+![](https://github.com/hoseinshfz/dashboards/blob/main/Rahyaft_samples/Rahyaft_3.gif?raw=true)
+
+# sample #4
+![](https://github.com/hoseinshfz/dashboards/blob/main/Rahyaft_samples/Rahyaft_1.gif?raw=true)
