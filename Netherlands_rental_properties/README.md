@@ -11,3 +11,5 @@ Most of the properties with Energy labels have A ratings.
 
 ![]
 (https://github.com/hoseinshfz/dashboards/blob/main/Netherlands_rental_properties/netherlands_rental_properties_analytics.gif)
+
+![](https://github.com/hoseinshfz/dashboards/blob/main/Netherlands_rental_properties/netherlands_rental_properties_analytics.gif?raw=true)
